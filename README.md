@@ -30,9 +30,17 @@ Tabela: filmes
 - SQL
 - MySQL Workbench
 
+  
 ## 📸 Resultados
 
-(Depois você adiciona prints aqui)
+### 🔝 Top 5 filmes
+![Top 5](print1.png)
+
+### 📊 Média por gênero
+![Média](print2.png)
+
+### ⭐ Filmes acima da média
+![Acima da média](print3.png)
 
 ## 🚀 Aprendizados
 
